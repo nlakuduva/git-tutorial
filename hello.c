@@ -14,7 +14,7 @@ int main(int argc, char **argv)
 int main()
 {
     printf("Hello world\n");
-    printf("Nandhini is great\n");
+    printf("Nandhini is great!\n");
     printf("testing\n");
     return 0;
 }
